@@ -35,12 +35,17 @@ Beberapa pengetahuan dasar yang dibutuhkan untuk mengembangkan Aplikasi Web berb
 2. South  
           
 3. Django Suit  
+
+4. Psycopg2
    
+
 
 # Install semua paket yang dibutuhkan
 ---
 
->pip install -r requirements.txt
+> pip install -r requirements.txt
+
+
 
 
 
