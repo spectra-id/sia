@@ -27,7 +27,7 @@ Beberapa pengetahuan dasar yang dibutuhkan untuk mengembangkan Aplikasi Web berb
 
 # Menginstall SIA
 ---
-### Lingkungan Development
+### Lingkungan Development/Paket-paket yang dibutuhkan
 **Requirement**
 
 1. Django 1.6.2  
@@ -40,8 +40,7 @@ Beberapa pengetahuan dasar yang dibutuhkan untuk mengembangkan Aplikasi Web berb
    
 
 
-# Install semua paket yang dibutuhkan
----
+**Install semua paket di atas**
 
 > pip install -r requirements.txt
 
@@ -49,7 +48,7 @@ Beberapa pengetahuan dasar yang dibutuhkan untuk mengembangkan Aplikasi Web berb
 
 
 
-**Install SIA**
+# Install SIA ke localhost
 
 `git clone https://github.com/django-developer-indonesia/sia.git`
 
