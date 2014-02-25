@@ -50,13 +50,15 @@ Beberapa pengetahuan dasar yang dibutuhkan untuk mengembangkan Aplikasi Web berb
 
 # Install SIA ke localhost
 
+**Copy source code**
+
 `git clone https://github.com/django-developer-indonesia/sia.git`
 
 **Setup**
 
 `./manage.py syncdb`
 
-**Menjalankan SIA**
+**Menjalankan SIA di localhost**
 
 `./manage.py runserver`
 
