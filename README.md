@@ -31,11 +31,18 @@ Beberapa pengetahuan dasar yang dibutuhkan untuk mengembangkan Aplikasi Web berb
 **Requirement**
 
 1. Django 1.6.2  
-   `pip install Django==1.6.2`
+   
 2. South  
-   `pip install South==0.8.1`       
+          
 3. Django Suit  
-   `pip install django-suit==0.2.5`
+   
+
+# Install semua paket yang dibutuhkan
+---
+
+>pip install -r requirements.txt
+
+
 
 **Install SIA**
 
